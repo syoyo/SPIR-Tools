@@ -9,9 +9,9 @@
 #include "SpirErrors.h"
 #include "SpirIterators.h"
 
-#include "llvm/Module.h"
-#include "llvm/Instructions.h"
-#include "llvm/DataLayout.h"
+#include "llvm/IR/Module.h"
+#include "llvm/IR/Instructions.h"
+#include "llvm/IR/DataLayout.h"
 #include "llvm/Support/raw_ostream.h"
 
 using namespace llvm;

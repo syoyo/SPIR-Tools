@@ -9,10 +9,12 @@
 #include "SpirErrors.h"
 #include "SpirTables.h"
 
-#include "llvm/Module.h"
-#include "llvm/Function.h"
-#include "llvm/Instruction.h"
-#include "llvm/Instructions.h"
+#include "llvm/IR/Module.h"
+#include "llvm/IR/Function.h"
+#include "llvm/IR/Instruction.h"
+#include "llvm/IR/Instructions.h"
+#include "llvm/IR/Operator.h"
+#include "llvm/IR/Constant.h"
 
 #include <sstream>
 

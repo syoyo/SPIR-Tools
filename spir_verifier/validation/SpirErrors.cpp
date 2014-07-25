@@ -8,9 +8,9 @@
 #include "SpirErrors.h"
 #include "SpirTables.h"
 
-#include "llvm/Type.h"
-#include "llvm/Value.h"
-#include "llvm/Metadata.h"
+#include "llvm/IR/Type.h"
+#include "llvm/IR/Value.h"
+#include "llvm/IR/Metadata.h"
 #include "llvm/Support/raw_ostream.h"
 
 #include <string>
